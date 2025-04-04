@@ -7,8 +7,8 @@ Interests:
 - Parallel Processing
 - Application Development
 - Systems Engineering
-  - [Embedding Systems](https://github.com/TAMU-Capstone/Embedded-Code)
-  - Operating Systems
+  - [Embedded Systems](https://github.com/TAMU-Capstone/Embedded-Code)
+  - OS
   - [Networking](https://github.com/colemcanelly/csce463-hw3-rdt)
 - Performance Optimization
 - [Reverse Engineering/Cybersecurity](https://github.com/wytata/csce451-group2-c2)
